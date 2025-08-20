@@ -1,10 +1,10 @@
 ---
 permalink: /2025
-title: "The Human-Centered AI Symposium"
-excerpt: October 29-30, 2025 <br> Rackham Amphitheatre, Co-hosted by UMSI and MIDAS <br> University of Michigan (915 E Washington St, Ann Arbor, MI 48109)
-browser-title: "HCAI Symposium"
+title: "HCAI'25: UM Symposium on Human-Centered AI"
+excerpt: October 29-30, 2025 <br> Rackham Amphitheatre, University of Michigan <br> 915 E Washington St, Ann Arbor, MI 48109 <br> Co-hosted by UMSI and MIDAS
+browser-title: "HCAI'25"
 masthead-title: "HCAI Symposium"
-masthead-subtitle: "@2025"
+# masthead-subtitle: ""
 masthead-url: "/"
 layout: splash
 author_profile: false
@@ -13,20 +13,10 @@ header:
     overlay_filter: "0.7"
     overlay_image: /assets/images/banner.png
 navigation:
-  # - title: "CFP"
-  #   url: /2025/call-for-papers
+  - title: "Speakers"
+    url: /2025#confirmed-keynotes-and-speakers
   - title: "Program"
     url: /2025#program
-  # - title: "Keynotes"
-  #   url: /2025#keynotes
-  # - title: "Panelists"
-  #   url: /2025#panelists
-  # - title: "Accepted Papers"
-  #   url: /glb2022#accepted-papers
-  - title: "Invited Speakers"
-    url: /2025#invited-speakers
-  # - title: "Relevant Workshops"
-  #   url: /relevant
 
 keynotes: 
 - image_path: /assets/images/2025/xxx.jpeg
@@ -44,7 +34,7 @@ keynotes:
 
 panelists:
 
-organizers:
+speakers:
     - image_path: /assets/images/2025/weld-sq.png
       alt: "Daniel S. Weld"
       excerpt: >
@@ -79,6 +69,12 @@ organizers:
 
 <!-- # Overview -->
 
+# Confirmed Keynotes and Speakers
+<!-- Please contact us through <a target="_blank" href="http://scr.im/aibs">this email address</a> if you have any questions. -->
+
+{% include feature_row id="speakers"%}
+
+
 # Program
 
 **First Day Schedule (Rackham):**
@@ -86,15 +82,13 @@ organizers:
 | Time (EST) | Agenda |
 | ----------------- | ------------ |
 | **9:30 AM - 10:00 AM** | **Coffee, Introduction, and Remarks** |
-| **10:00 AM - 11:30 AM** | **Keynotes 1 & 2** |
-| **11:30 AM - 1:00 PM** | **Contributed Talks from U-M**: 4x20 minute talks (15 min + 5 min questions) |
-| **1:00 PM - 2:00 PM** | **Lunch and Poster Session**: People will vote with stickers, with awards ($500, $250, $100) |
-| **2:00 PM - 3:30 PM** | **Keynotes 3 & 4** |
+| **10:00 AM - 11:30 AM** | **Morning Keynotes** |
+| **11:30 AM - 1:00 PM** | **University of Michigan Research Talks** |
+| **1:00 PM - 2:00 PM** | **Lunch and Poster Session** (with Prizes) |
+| **2:00 PM - 3:30 PM** | **Afternoon Keynotes** |
 | **3:30 PM - 4:00 PM** | **Coffee Break** |
 | **4:00 PM - 5:15 PM** | **Panel**: "HCAI in 2050 - Imagining the impossible" |
-| **5:15 PM - 6:00 PM** | **Celebration**: Contributed demos |
-| **6:30 PM - 8:30 PM** | **Organizer Dinner**: Close to campus |
-
+| **5:15 PM - 6:00 PM** | **Celebration & Demos** |
 
 **Second Day Schedule (Leinweber)**:
 
@@ -137,13 +131,6 @@ To be announced. -->
     </li>
 {% endfor %}
 </ul> -->
-
----
-
-# Invited Speakers
-<!-- Please contact us through <a target="_blank" href="http://scr.im/aibs">this email address</a> if you have any questions. -->
-
-{% include feature_row id="organizers"%}
 
 <!-- # Program Committee
 
