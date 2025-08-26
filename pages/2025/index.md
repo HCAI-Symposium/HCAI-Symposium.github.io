@@ -67,6 +67,7 @@ speakers:
         [Homepage](https://seas.umich.edu/research/faculty/lauren-e-gillespie)
       bio: >
         Coming from a background in both computer science and biology, Dr. Gillespie's interdisciplinary research develops new AI-integrated approaches for monitoring ecosystems at scale. Her work develops foundation models, AI models that can rapidly make sense of large-scale but noisy data with little guidance, and aims to uncover the effects of rapid environmental change on species to improve our ecological forecasting of the natural world. By leveraging diverse and widely available data from sources including remote sensing and citizen + community science, her research aims to create models of biodiversity that are accurate and useful for conservation decision-makers around the world.
+---
 
 <!-- # Overview -->
 
