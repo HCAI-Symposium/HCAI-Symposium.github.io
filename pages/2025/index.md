@@ -71,13 +71,12 @@ speakers:
 <!-- # Overview -->
 
 # Confirmed Keynotes
-<!-- Please contact us through <a target="_blank" href="http://scr.im/aibs">this email address</a> if you have any questions. -->
 
-{% include feature_row id="keynotes" %}
+{% include feature_row id="keynotes"%}
 
 # Confirmed Speakers and Panelists
 
-{% include feature_row id="speakers" %}
+{% include feature_row id="speakers"%}
 
 
 # Program
@@ -103,13 +102,6 @@ speakers:
 | **12:00 PM -13:00 PM**    | **Lunch & Combined Talk by a DS/CSS Seminar Speaker** |
 
 Please note that this preliminary program is subject to change.
-
-<!-- # Keynotes
-
-To be announced. -->
-
-<!-- {% include feature_row id="keynotes" type="left" %} -->
-<!-- {% include feature_row id="keynotes"%} -->
 
 <!-- # Panelists
 
