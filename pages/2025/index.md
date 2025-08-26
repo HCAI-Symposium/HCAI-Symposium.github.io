@@ -13,28 +13,14 @@ header:
     overlay_filter: "0.7"
     overlay_image: /assets/images/banner.png
 navigation:
+  - title: "Keynotes"
+    url: /2025#confirmed-keynotes
   - title: "Speakers"
-    url: /2025#confirmed-keynotes-and-speakers
+    url: /2025#confirmed-speakers-and-panelists
   - title: "Program"
     url: /2025#program
 
-keynotes: 
-- image_path: /assets/images/2025/xxx.jpeg
-  alt: ""
-  excerpt: >
-    **<big></big>**<br>
-    Institute<br>
-    [https://xxx.com/](https://xxx.com/)<br><br>
-    **xxx**
-  abstract: >
-    xxx
-  bio: >
-    xxx
-  
-
-panelists:
-
-speakers:
+keynotes:
     - image_path: /assets/images/2025/weld-sq.png
       alt: "Daniel S. Weld"
       excerpt: >
@@ -64,15 +50,34 @@ speakers:
       bio: >
         Elena L. Glassman is an Assistant Professor of Computer Science at the Harvard John A. Paulson School of Engineering & Applied Sciences, specializing in human-computer interaction. Prior to that, she was a postdoctoral scholar at UC Berkeley, and obtained a BS, MEng, and PhD in Electrical Engineering and Computer Science from MIT. She has been named a Stanley A. Marks & William H. Marks Professor at the Radcliffe Institute for Advanced Study and a National Academy of Sciences Kavli Fellow. Her work has been funded by the NSF, private industry, the Berkeley Institute for Data Science, and the Sloan Research Fellowship. This work has received Best Paper and Honorable Mention awards at top-tier human-computer interaction research venues.
 
----
-
+speakers:
+    - image_path: /assets/images/2025/liao-sq.png
+      alt: "Q. Vera Liao"
+      excerpt: >
+        **Q. Vera Liao**<br>
+        University of Michigan<br>
+        [Homepage](https://qveraliao.com/)
+      bio: >
+        Q. Vera Liao is an Associate Professor in the University of Michigan CSE department. Her current research interests are in human-AI interaction, explainable AI, and responsible AI. Prior to joining UofM, she worked at MSR FATE group, IBM T.J. Watson Research Center, and studied at the University of Illinois at Urbana-Champaign and Tsinghua University. Her research received multiple paper awards at ACM CHI and IUI. She currently serves as the Co-Editor-in-Chief for Springer HCI Book Series, in the Editors team for ACM CSCW conferences, and on the Editorial Board of ACM Transactions on Interactive Intelligent Systems (TiiS). She actively organizes events that connect the HCI and AI communities, including several workshops and panels at CHI, IUI, and CSCW conferences.
+    - image_path: /assets/images/2025/lauren_profile_pic.jpg
+      alt: "Lauren E. Gillespie"
+      excerpt: >
+        **Lauren E. Gillespie**<br>
+        University of Michigan<br>
+        [Homepage](https://seas.umich.edu/research/faculty/lauren-e-gillespie)
+      bio: >
+        Coming from a background in both computer science and biology, Dr. Gillespie's interdisciplinary research develops new AI-integrated approaches for monitoring ecosystems at scale. Her work develops foundation models, AI models that can rapidly make sense of large-scale but noisy data with little guidance, and aims to uncover the effects of rapid environmental change on species to improve our ecological forecasting of the natural world. By leveraging diverse and widely available data from sources including remote sensing and citizen + community science, her research aims to create models of biodiversity that are accurate and useful for conservation decision-makers around the world.
 
 <!-- # Overview -->
 
-# Confirmed Keynotes and Speakers
+# Confirmed Keynotes
 <!-- Please contact us through <a target="_blank" href="http://scr.im/aibs">this email address</a> if you have any questions. -->
 
-{% include feature_row id="speakers"%}
+{% include feature_row id="keynotes" %}
+
+# Confirmed Speakers and Panelists
+
+{% include feature_row id="speakers" %}
 
 
 # Program
