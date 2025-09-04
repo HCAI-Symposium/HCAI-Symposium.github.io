@@ -21,6 +21,24 @@ navigation:
     url: /2025#program
 
 keynotes:
+    - image_path: /assets/images/2025/glassman-sq.png
+      alt: "Elena L. Glassman"
+      excerpt: >
+        **Elena L. Glassman**<br>
+        Harvard University<br>
+        [Homepage](https://glassmanlab.seas.harvard.edu/)
+      bio: >
+        Elena L. Glassman is an Assistant Professor of Computer Science at the Harvard John A. Paulson School of Engineering & Applied Sciences, specializing in human-computer interaction. Prior to that, she was a postdoctoral scholar at UC Berkeley, and obtained a BS, MEng, and PhD in Electrical Engineering and Computer Science from MIT. She has been named a Stanley A. Marks & William H. Marks Professor at the Radcliffe Institute for Advanced Study and a National Academy of Sciences Kavli Fellow. Her work has been funded by the NSF, private industry, the Berkeley Institute for Data Science, and the Sloan Research Fellowship. This work has received Best Paper and Honorable Mention awards at top-tier human-computer interaction research venues.
+
+    - image_path: assets/images/2025/meg_cropped_sidebar2.jpg
+      alt: "Margaret Mitchell"
+      excerpt: >
+        **Margaret Mitchell**<br>
+        Hugging Face<br>
+        [Homepage](https://m-mitchell.com/)
+      bio: >
+        Margaret Mitchell is a researcher focused on the ins and outs of machine learning and ethics-informed AI development in tech. She has published around 100 papers on natural language generation, assistive technology, computer vision, and AI ethics, and holds multiple patents in the areas of conversation generation and sentiment classification. She has recently received recognition as one of Time's Most Influential People of 2023. She currently works at Hugging Face as Chief Ethics Scientist, driving forward work in the ML development ecosystem, ML data governance, AI evaluation, and AI ethics. She previously worked at Google AI as a Staff Research Scientist, where she founded and co-led Google's Ethical AI group, focused on foundational AI ethics research and operationalizing AI ethics Google-internally. Before joining Google, she was a researcher at Microsoft Research, focused on computer vision-to-language generation; and was a postdoc at Johns Hopkins, focused on Bayesian modeling and information extraction. She holds a PhD in Computer Science from the University of Aberdeen and a Master's in computational linguistics from the University of Washington. While earning her degrees, she also worked from 2005-2012 on machine learning, neurological disorders, and assistive technology at Oregon Health and Science University. She has spearheaded a number of workshops and initiatives at the intersections of diversity, inclusion, computer science, and ethics. Her work has received awards from Secretary of Defense Ash Carter and the American Foundation for the Blind, and has been implemented by multiple technology companies. She likes gardening, dogs, and cats.
+
     - image_path: /assets/images/2025/weld-sq.png
       alt: "Daniel S. Weld"
       excerpt: >
@@ -41,24 +59,7 @@ keynotes:
       bio: >
         Diyi Yang is an Assistant Professor in Computer Science at Stanford University. Professor Yang's research interests are Computational Social Science and Natural Language Processing. Her research goal is to understand the social aspects of language and then build socially aware NLP systems to better support human-human and human-computer interaction. Professor Yang received her PhD from the School of Computer Science, Carnegie Mellon University, and her bachelor's degree from Shanghai Jiao Tong University, China. Her work has received multiple best paper nominations or awards at ICWSM, EMNLP, SIGCHI, ACL, and CSCW. She is a recipient of Forbes 30 under 30 in Science, IEEE “AI 10 to Watch”, the Intel Rising Star Faculty Award, Microsoft Research Faculty Fellowship, and NSF CAREER Award.
 
-    - image_path: /assets/images/2025/glassman-sq.png
-      alt: "Elena L. Glassman"
-      excerpt: >
-        **Elena L. Glassman**<br>
-        Harvard University<br>
-        [Homepage](https://glassmanlab.seas.harvard.edu/)
-      bio: >
-        Elena L. Glassman is an Assistant Professor of Computer Science at the Harvard John A. Paulson School of Engineering & Applied Sciences, specializing in human-computer interaction. Prior to that, she was a postdoctoral scholar at UC Berkeley, and obtained a BS, MEng, and PhD in Electrical Engineering and Computer Science from MIT. She has been named a Stanley A. Marks & William H. Marks Professor at the Radcliffe Institute for Advanced Study and a National Academy of Sciences Kavli Fellow. Her work has been funded by the NSF, private industry, the Berkeley Institute for Data Science, and the Sloan Research Fellowship. This work has received Best Paper and Honorable Mention awards at top-tier human-computer interaction research venues.
-
 speakers:
-    - image_path: /assets/images/2025/liao-sq.png
-      alt: "Q. Vera Liao"
-      excerpt: >
-        **Q. Vera Liao**<br>
-        University of Michigan<br>
-        [Homepage](https://qveraliao.com/)
-      bio: >
-        Q. Vera Liao is an Associate Professor in the University of Michigan CSE department. Her current research interests are in human-AI interaction, explainable AI, and responsible AI. Prior to joining UofM, she worked at MSR FATE group, IBM T.J. Watson Research Center, and studied at the University of Illinois at Urbana-Champaign and Tsinghua University. Her research received multiple paper awards at ACM CHI and IUI. She currently serves as the Co-Editor-in-Chief for Springer HCI Book Series, in the Editors team for ACM CSCW conferences, and on the Editorial Board of ACM Transactions on Interactive Intelligent Systems (TiiS). She actively organizes events that connect the HCI and AI communities, including several workshops and panels at CHI, IUI, and CSCW conferences.
     - image_path: /assets/images/2025/lauren_profile_pic.jpg
       alt: "Lauren E. Gillespie"
       excerpt: >
@@ -67,6 +68,15 @@ speakers:
         [Homepage](https://seas.umich.edu/research/faculty/lauren-e-gillespie)
       bio: >
         Coming from a background in both computer science and biology, Dr. Gillespie's interdisciplinary research develops new AI-integrated approaches for monitoring ecosystems at scale. Her work develops foundation models, AI models that can rapidly make sense of large-scale but noisy data with little guidance, and aims to uncover the effects of rapid environmental change on species to improve our ecological forecasting of the natural world. By leveraging diverse and widely available data from sources including remote sensing and citizen + community science, her research aims to create models of biodiversity that are accurate and useful for conservation decision-makers around the world.
+
+    - image_path: /assets/images/2025/liao-sq.png
+      alt: "Q. Vera Liao"
+      excerpt: >
+        **Q. Vera Liao**<br>
+        University of Michigan<br>
+        [Homepage](https://qveraliao.com/)
+      bio: >
+        Q. Vera Liao is an Associate Professor in the University of Michigan CSE department. Her current research interests are in human-AI interaction, explainable AI, and responsible AI. Prior to joining UofM, she worked at MSR FATE group, IBM T.J. Watson Research Center, and studied at the University of Illinois at Urbana-Champaign and Tsinghua University. Her research received multiple paper awards at ACM CHI and IUI. She currently serves as the Co-Editor-in-Chief for Springer HCI Book Series, in the Editors team for ACM CSCW conferences, and on the Editorial Board of ACM Transactions on Interactive Intelligent Systems (TiiS). She actively organizes events that connect the HCI and AI communities, including several workshops and panels at CHI, IUI, and CSCW conferences.
 ---
 
 <!-- # Overview -->
